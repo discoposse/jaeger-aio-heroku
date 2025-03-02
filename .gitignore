@@ -1,0 +1,20 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node & dependency folders
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python virtual environment
+venv/
+__pycache__/
+
+# Docker-related files
+*.log
+docker-compose.override.yml
+
+# Heroku-specific files
+.heroku/
+.env
